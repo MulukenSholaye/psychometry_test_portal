@@ -34,6 +34,6 @@ Simply download the admin_reports_dashboard.html file and open it in any modern 
 
 # Screenshots
 * Login page
-  ![Alt Text](https://example.com/your-image.jpg)
+  ![Alt Text](Screenshot\ from\ 2025-09-23 19-42-40.png)
 * Registration page
    ![Alt Text](https://example.com/your-image.jpg)
