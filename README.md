@@ -34,6 +34,44 @@ Simply download the admin_reports_dashboard.html file and open it in any modern 
 
 # Screenshots
 * Login page
-  ![Alt Text](https://github.com/MulukenSholaye/psychometry_test_portal/blob/ec15b23b538c810160affb4b786b7beeeb754cea/Screenshot%20from%202025-09-23%2019-42-40.png)
+  ![login](https://github.com/MulukenSholaye/psychometry_test_portal/blob/ec15b23b538c810160affb4b786b7beeeb754cea/Screenshot%20from%202025-09-23%2019-42-40.png)
 * Registration page
-   ![Alt Text](https://github.com/MulukenSholaye/psychometry_test_portal/blob/dcacdae6d4db2b6b83d102dad6131ec5589be83e/Screenshot%20from%202025-09-23%2019-43-49.png)
+   ![registration page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/dcacdae6d4db2b6b83d102dad6131ec5589be83e/Screenshot%20from%202025-09-23%2019-43-49.png)
+* Landing page
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-45-28.png)
+  * available exams page
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-46-20.png)
+  * user profile page
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-48-09.png)
+  * admin dashobard page
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-50-05.png)
+  * exam schedule page
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-51-30.png)
+  * exam schedule page
+
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-51-30.png)
+  * exam schedule page
+
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-51-30.png)
+  * personality prediction page
+
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-57-04.png)
+ * personality profile page
+
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-59-30.png)
+  
+  * exam taking page
+
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2019-58-07.png)
+
+   *  personality profile page
+
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2020-00-43.png)
+
+   *  user description of  profile page
+
+   ![landing page](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2020-06-33.png)
+   *  system monitoring dashboard
+
+   ![system monitoring dashboard](https://github.com/MulukenSholaye/psychometry_test_portal/blob/8f0a9c74805ebff1e9db2078b223b976a2dea065/Screenshot%20from%202025-09-23%2020-10-22.png)
+  
