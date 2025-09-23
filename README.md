@@ -36,4 +36,4 @@ Simply download the admin_reports_dashboard.html file and open it in any modern 
 * Login page
   ![Alt Text](https://github.com/MulukenSholaye/psychometry_test_portal/blob/ec15b23b538c810160affb4b786b7beeeb754cea/Screenshot%20from%202025-09-23%2019-42-40.png)
 * Registration page
-   ![Alt Text](https://example.com/your-image.jpg)
+   ![Alt Text](https://github.com/MulukenSholaye/psychometry_test_portal/blob/dcacdae6d4db2b6b83d102dad6131ec5589be83e/Screenshot%20from%202025-09-23%2019-43-49.png)
