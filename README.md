@@ -1,4 +1,4 @@
-# Ethio Psychometry_test_portal
+# Ethio Psychometry Test Portal
 AI enabled Psychometric Testing Platform written in Python
 sychometry testing, a field of psychology, uses standardized tests to measure a person's mental capabilities and behavioral style. These exams are meticulously designed to provide objective, quantifiable data about an individual's cognitive abilities and personality traits, helping professionals understand a person's aptitudes, strengths, and potential areas for development. The results are often used in career counseling, educational placement, and clinical diagnosis.
 PsychoMetrics Admin Dashboard
