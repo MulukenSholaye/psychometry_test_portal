@@ -4,8 +4,8 @@ sychometry testing, a field of psychology, uses standardized tests to measure a 
 
 ![](https://github.com/MulukenSholaye/psychometry_test_portal/blob/22fc592f2fff3b4c09bdca36105914bdc24a9655/21711737214.jpg)
 
-PsychoMetrics Admin Dashboard
-This is a comprehensive, single-page admin dashboard for a psychometry testing application. It provides administrators with a central hub to monitor system health, manage users and exams, and gain insights from data visualizations.
+## PsychoMetrics Admin Dashboard
+* This is a comprehensive, single-page admin dashboard for a psychometry testing application. It provides administrators with a central hub to monitor system health, manage users and exams, and gain insights from data visualizations.
 
 # Features
 * System Metrics: At-a-glance cards display key performance indicators (KPIs) such as total users, exams created, exams completed, and average scores.
